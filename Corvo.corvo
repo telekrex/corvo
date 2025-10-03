@@ -15,3 +15,9 @@ Build 2 was on 9.27.2025
 . Slightly darker high on gray
 . Artwork/icon, hand drawn?
 . Press R to reload
+/ Remove old .py files in source
+/ Add noconsole setting to build scr
+
+How to make startup faster?
+Pygame startup?
+File walking
